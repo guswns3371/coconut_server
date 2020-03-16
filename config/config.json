@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Hhjune1519*",
+    "database": "cocoa",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  },
+  "cocoa": {
+    "username": "root",
+    "password": "Hhjune1519*",
+    "database": "cocoa",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  }
+}
